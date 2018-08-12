@@ -1,1 +1,1 @@
-# dTwitter
+This is a DECENTRALISED TWITTER APP.
