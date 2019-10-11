@@ -1,1 +1,1 @@
-This is a DECENTRALISED TWITTER application using Blockchain. 
+This is a DECENTRALISED TWITTER application using Ethereum Blockchain. 
